@@ -1,0 +1,47 @@
+{
+    "source": "geeksgod",
+    "courses": [
+        {
+            "title": "Java for Beginners \u2013 Learn all the Basics of Java",
+            "link": "https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/",
+            "date": "April 16, 2022",
+            "coupon": "DDB5CFF17974A4C64B8D",
+            "enroll": "https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=DDB5CFF17974A4C64B8D"
+        },
+        {
+            "title": "The Complete Introduction to C++ Programming",
+            "link": "https://www.udemy.com/course/the-complete-introduction-to-c-programming/",
+            "date": "April 16, 2022",
+            "coupon": "251366913B2001B1DE23",
+            "enroll": "https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=251366913B2001B1DE23"
+        },
+        {
+            "title": "Lead Generation Mastery with Facebook Lead & Messenger Ads",
+            "link": "https://www.udemy.com/course/facebook-lead-ads-course/",
+            "date": "April 16, 2022",
+            "coupon": "WATERTIGER5",
+            "enroll": "https://www.udemy.com/course/facebook-lead-ads-course/?couponCode=WATERTIGER5"
+        },
+        {
+            "title": "SEO Training 2022: Complete SEO Course & WordPress SEO Yoast",
+            "link": "https://www.udemy.com/course/online-seo-training/",
+            "date": "April 16, 2022",
+            "coupon": "WATERTIGER6",
+            "enroll": "https://www.udemy.com/course/online-seo-training/?couponCode=WATERTIGER6"
+        },
+        {
+            "title": "SQLite Made Easy",
+            "link": "https://www.udemy.com/course/sqlite-made-easy/",
+            "date": "April 16, 2022",
+            "coupon": "GOODFRIDAY",
+            "enroll": "https://www.udemy.com/course/sqlite-made-easy/?couponCode=GOODFRIDAY"
+        },
+        {
+            "title": "MLOps Certification- Basics, Deployment & Vertex AI Darknet",
+            "link": "https://www.udemy.com/course/mlops-certification-pipeline-basics-to-mlops-toolbox/",
+            "date": "April 16, 2022",
+            "coupon": "JZ00111",
+            "enroll": "https://www.udemy.com/course/mlops-certification-pipeline-basics-to-mlops-toolbox/?couponCode=JZ00111"
+        }
+    ]
+}
